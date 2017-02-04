@@ -7,11 +7,6 @@
   </url>
   
   <url>
-    <loc>https://kunfengchen.github.io/tutorial/custom-css/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kunfengchen.github.io/about/</loc>
     <lastmod>2015-07-28T09:51:51-04:00</lastmod>
   </url>
@@ -19,12 +14,6 @@
   <url>
     <loc>https://kunfengchen.github.io/tags/blog/</loc>
     <lastmod>2017-02-03T09:32:45-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kunfengchen.github.io/tags/hugo/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,25 +36,7 @@
   </url>
   
   <url>
-    <loc>https://kunfengchen.github.io/tags/series/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kunfengchen.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kunfengchen.github.io/tags/tutorial/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kunfengchen.github.io/tutorial/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
